@@ -1,0 +1,15 @@
+2026-11-26 22:04:00 | SYSTEM | STARTUP | Loaded patients and staff accounts
+2026-11-26 22:04:41 | admin | REGISTER_STAFF | Registered Nurse: miguel
+2026-11-26 22:04:49 | admin | LOGOUT | Admin session ended
+2026-11-26 22:05:13 | miguel (Nurse) | LOGOUT | Staff session ended
+2026-11-26 22:06:04 | admin | LOGOUT | Admin session ended
+2026-11-27 00:19:45 | SYSTEM | STARTUP | Loaded patients and staff accounts
+2026-11-27 00:20:02 | admin | LOGOUT | Admin session ended
+2026-11-27 00:21:02 | miguel (Nurse) | REGISTER_PATIENT | ID: P-0106 | Name: jobs, Steve | Complaint: Fever | Triage: RED (1)
+2026-11-27 00:21:17 | miguel (Nurse) | DISCHARGE_PATIENT | ID: P-0106 | Name: Colon, Jose Emanuel | Final Triage: AMB (3)
+2026-11-27 00:21:24 | miguel (Nurse) | LOGOUT | Staff session ended
+2026-11-27 00:21:50 | admin | LOGOUT | Admin session ended
+2026-11-27 00:21:51 | SYSTEM | SHUTDOWN | Application exited normally
+2026-11-27 00:32:32 | SYSTEM | STARTUP | Loaded patients and staff accounts
+2026-11-27 00:32:33 | SYSTEM | SHUTDOWN | Application exited normally
+2026-11-27 00:35:21 | SYSTEM | STARTUP | Loaded patients and staff accounts

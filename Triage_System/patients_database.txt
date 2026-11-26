@@ -1,0 +1,5 @@
+P-0102|Dela Cruz, Juan||54|160/95|102|38.5|Chest Pain, Dyspnea
+P-0103|Santos, Maria||29|130/80|95|39.2|High Fever, Vomiting
+P-0105|Lapasaran, Nino Paolo|2007-11-21|19|110/90|100|37.8|Fever
+P-0107|Malunes, Steven|2008-02-16|18|115/75|72|36.6|Fever
+P-0106|jobs, Steve|1985-03-25|41|110/85|100|37|Fever
